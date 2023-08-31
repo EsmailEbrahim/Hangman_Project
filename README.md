@@ -1,1 +1,1 @@
-# Hangman_Project
+# Hangman_Project for ERPNext Course
